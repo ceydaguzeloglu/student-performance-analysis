@@ -1,2 +1,2 @@
-# datasci-project
-first data science project
+# student-performance-analysis
+student-performance-data-analysis
